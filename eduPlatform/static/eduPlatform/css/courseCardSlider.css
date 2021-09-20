@@ -29,7 +29,7 @@
   color: #343434;
 }
 .coursecardlist-container .card{
-  transition: 0.3s ease-in-and-out;
+  transition: 0.3s ease-in-out;
 }
 .coursecardlist-container .card:hover img {
   transform: scale(1.05);
